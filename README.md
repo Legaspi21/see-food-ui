@@ -23,6 +23,6 @@ npm start
 #### - A user can dislike a dish
 #### - A user can view a list of liked dishes for a zip code
 #### - A user can view restaurant info pertaining to the dish 
-#### - A user can e-mail thier liked dishes to a friend
+#### - A user can e-mail their liked dishes to a friend
 #### - A user can view a list of all dishes they have liked
 
